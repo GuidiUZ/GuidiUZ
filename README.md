@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/guido-aranda-590212229/">Guido Aranda</a> 👋</h1>
 </div>
 
-<img src="![Guido Aranda](https://github.com/GuidiUZ/GuidiUZ/assets/83031656/a6b6a1ef-363a-42fc-99bd-7ee180e55ae5)">
+<img src="![Guido Aranda](https://github.com/GuidiUZ/GuidiUZ/assets/83031656/a6b6a1ef-363a-42fc-99bd-7ee180e55ae5)"></img>
 
 ## Sobre mi
 
