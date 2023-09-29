@@ -8,7 +8,7 @@
 ## About me
 
 - 📲 Mobile developer
-- 👾 Right now I’m studying to develop mobile apps on Android 
+- 👾 Right now I’m studying to develop mobile apps on Android (Kotlin and React Native)
 - 👨‍🎓 Studying Computer Science
 - 🌱 I’m currently learning Kotlin && Android <a href="https://cursokotlin.com/">Kotlin Course</a>
 
